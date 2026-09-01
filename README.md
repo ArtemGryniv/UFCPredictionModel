@@ -1,4 +1,3 @@
-```md
 # UFC Fight Outcome Prediction
 
 A learning-focused machine-learning project that predicts the probability of Fighter A defeating Fighter B using only information available before the fight.
@@ -46,4 +45,4 @@ CSV files and generated datasets are excluded from Git.
 - Compare logistic regression with tree-based models
 - Improve probability calibration
 - Build a reusable pipeline for predicting new matchups
-```
+
