@@ -1,6 +1,6 @@
 # UFC Fight Outcome Prediction
 
-A learning-focused machine-learning project that predicts the probability of Fighter A defeating Fighter B using only information available before the fight.
+An ongoing machine-learning project that predicts the probability of Fighter A defeating Fighter B using only information available before the fight.
 
 ## Phase 1
 
